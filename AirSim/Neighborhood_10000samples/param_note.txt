@@ -1,0 +1,7 @@
+----------
+_randomize_whether: 1
+_num_sampling: 10000
+_xy_range: 200
+_z_min: -3
+_z_max: -2
+_rp_range: 30
