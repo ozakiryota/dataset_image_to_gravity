@@ -1,0 +1,8 @@
+----------
+_randomize_whether: 0
+_num_sampling: 1000
+_x_range: 350
+_y_range: 300
+_z_min: -3
+_z_max: -2
+_rp_range: 30
