@@ -1,0 +1,5 @@
+Pose: 
+ Position: 0, 0, -2
+ Orientation: 1, -0, 0, 0
+IMU: 
+ linear_acceleration: 0.0100889,0.0622761,9.74528
